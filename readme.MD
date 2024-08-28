@@ -97,4 +97,6 @@ Use add_audio.py to overlay audio onto the final video file.
 python add_audio.py
 This will generate final_video_with_audio.mp4 in the prod/ directory.
 
+## Demo Video of results for Pennywise (click the image)
+
 [![Demo Video](https://img.youtube.com/vi/_SfW1ouFZ7Q/0.jpg)](https://www.youtube.com/watch?v=_SfW1ouFZ7Q)
